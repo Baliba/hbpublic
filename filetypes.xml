@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="comSelectTemplate" type="PHP" />
+      <mapping pattern="App_config" type="PHP" />
+      <mapping pattern="ent" type="PHP" />
+      <mapping pattern="BetMatrix" type="PHP" />
+      <mapping pattern="currency" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="blb" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" type="Vue.js" />
+      <mapping ext="vue" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>
