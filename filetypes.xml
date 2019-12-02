@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="comSelectTemplate" type="PHP" />
+      <mapping pattern=".env" type="Native" />
       <mapping pattern="App_config" type="PHP" />
+      <mapping pattern="comSelectTemplate" type="PHP" />
       <mapping pattern="ent" type="PHP" />
       <mapping pattern="BetMatrix" type="PHP" />
       <mapping pattern="currency" type="PLAIN_TEXT" />
