@@ -3,15 +3,16 @@
     <extensionMap>
       <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern=".env" type="Native" />
-      <mapping pattern="comSelectTemplate" type="PHP" />
       <mapping pattern="App_config" type="PHP" />
+      <mapping pattern="comSelectTemplate" type="PHP" />
       <mapping pattern="ent" type="PHP" />
       <mapping pattern="BetMatrix" type="PHP" />
+      <mapping pattern="readMe" type="PLAIN_TEXT" />
       <mapping pattern="currency" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
-      <mapping pattern="readMe" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="blb" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js" />
       <mapping ext="vue" type="XHTML" />
     </extensionMap>
